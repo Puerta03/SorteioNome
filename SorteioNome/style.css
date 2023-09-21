@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Creepster&family=Croissant+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Creepster&family=Croissant+One&family=Mooli&display=swap');
+
+body {
+    background: radial-gradient(circle, #FA00EC, #E501FF, #C100FA, #9D00FF, #7800FA);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.titulo {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Creepster', cursive;
+    font-family: 'Croissant One', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+.tudo {
+    border: 5px solid rgb(0, 0, 0); 
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.txt1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Creepster', cursive;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Mooli', sans-serif;
+    font-size: 20px;
+}
+
+.txt2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Creepster', cursive;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Mooli', sans-serif;
+    font-size: 20px;
+}
+
